@@ -3,7 +3,7 @@ import pandas as pd
 import docx
 from docx import Document
 
-openai.api_key = 'sk-proj-UJa1VcmmtY4NjEfOxutaT3BlbkFJRe1w6T9WddxOS6rQBDr0'
+
 
 
 def extract_text(file_path):
