@@ -1,0 +1,72 @@
+{
+    "experience": [
+      {
+        "company": "Atria Corp",
+        "location": "Lima, Peru",
+        "position": "Logistics Data Assistant",
+        "dates": "March 2023-June 2023",
+        "activities": [
+          "Automated processes to generate purchase orders, saving 60% of registration time, using SQL and Python",
+          "Directed negotiation and generation of over 100 purchase orders, involving over $100k USD",
+          "Created Excel and Power BI dashboards to monitor 5 logistics objectives, utilized by the CEO"
+        ]
+      },
+      {
+        "company": "Luz del Sur",
+        "location": "Lima, Peru",
+        "position": "Operations and Data Intern",
+        "dates": "February 2022-March 2023",
+        "activities": [
+          "Achieved a 75% reduction in maintenance work assignment time, enhancing operational efficiency, using Excel VBA and Python",
+          "Led team's efforts to elaborate the 2023 CapEx and OpEx budgets, consisting of $14 and $3 million USD respectively",
+          "Deployed Excel and Power Bi dashboards for 3 KPI’s: budget completion, occupational security and failure rates"
+        ]
+      },
+      {
+        "company": "Falcon Management Partners",
+        "location": "Lima, Peru",
+        "position": "Consulting Analyst",
+        "dates": "August 2021-February 2022",
+        "activities": [
+          "Engaged with a cross-functional team of over 6 stakeholders, accomplishing a 10% annual savings",
+          "Integrated and interpreted an SQL database with over 20k entries related to spending elements",
+          "Built monthly presentations for managers, including metrics of progress and costs"
+        ]
+      }
+    ],
+    "relevant_projects": [
+      {
+        "name": "Development of Machine Learning Algorithms for Photo Correction",
+        "dates": "August 2024-Present",
+        "activities": [
+          "Implemented U-Net Neural Networks and image processing techniques to correct blurry photos using Python and TensorFlow",
+          "Enhances image clarity with potential applications in digital photography and image analysis"
+        ]
+      },
+      {
+        "name": "CV and Cover Letter Tailoring",
+        "dates": "June 2024-August 2024",
+        "activities": [
+          "Leveraged NLTK library for Python to extract relevant action verbs, skills and competences from job offers",
+          "Formulated a pipeline to output a tailored CV and Cover Letters from extracted information"
+        ]
+      },
+      {
+        "name": "Spotify: Playlist Creation and Visualizations",
+        "dates": "April 2024-July 2024",
+        "activities": [
+          "Achieved automatic playlist creation using the Spotify API and K-Means Clustering in Python Scikit-learn",
+          "Created a personalized “Spotify Wrapped” utilizing interactive heat maps, pie charts and scatter plots to track user preferences"
+        ]
+      },
+      {
+        "name": "Big Foot Sightings Exploratory Analysis",
+        "dates": "February 2024-April 2024",
+        "activities": [
+          "Collaborated with a team of four to devise interactive visualizations for the Big Foot Sightings dataset using D3.js, illustrating patterns in time and space",
+          "Utilized Python packages like SpaCy for entity recognition and GeoParser for geographical data parsing"
+        ]
+      }
+    ]
+  }
+  

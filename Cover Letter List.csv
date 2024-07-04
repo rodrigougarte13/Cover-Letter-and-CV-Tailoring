@@ -1,191 +1,56 @@
-Company,Position,Job Offer
+Company,Position,Job Offer,Generate Cover Letter
 Facebook,Data Engineer,"Every month, billions of people leverage Facebook products to connect with friends and loved ones from across the world. On the Data Engineering Team, our mission is to support these products both internally and externally by delivering the best data foundation that drives impact through informed decision making. As a highly collaborative organization, our data engineers work cross-functionally with software engineering, data science, and product management to optimize growth, strategy, and experience for our 3 billion plus users, as well as our internal employee community. In this role, you will see a direct correlation between your work, company growth, and user satisfaction. Beyond this, you will work with some of the brightest minds in the industry, and you'll have a unique opportunity to solve some of the most interesting data challenges around efficiency and integrity, at a scale few companies can match. As a Generalist, you are adaptable and a flexible problem solver with technical expertise, analytics skills, and product sense to successfully pivot/context-switch amongst many projects with a variety of scale and complexity. With your breadth of knowledge, you are often sought after for guidance and mentorship as well. As we continue to expand and create, we have a lot of exciting work ahead of us!
 Data Engineer, Analytics Responsibilities
-•	Conceptualize and own the data architecture for multiple large-scale projects, while evaluating design and operational cost-benefit tradeoffs within systems.
-•	Create and contribute to frameworks that improve the efficacy of logging data, while working with data infrastructure to triage issues and resolve.
-•	Collaborate with engineers, product managers, and data scientists to understand data needs, representing key data insights visually in a meaningful way.
-•	Define and manage SLA for all data sets in allocated areas of ownership.
-•	Determine and implement the security model based on privacy requirements, confirm safeguards are followed, address data quality issues, and evolve governance processes within allocated areas of ownership.
-•	Design, build, and launch collections of sophisticated data models and visualizations that support multiple use cases across different products or domains.
-•	Solve our most challenging data integration problems, utilizing optimal ETL patterns, frameworks, query techniques, sourcing from structured and unstructured data sources.
-•	Assist in owning existing processes running in production, optimizing complex code through advanced algorithmic concepts.
-•	Optimize pipelines, dashboards, frameworks, and systems to facilitate easier development of data artifacts.
-•	Influence product and cross-functional teams to identify data opportunities to drive impact.
-•	Mentor team members by giving/receiving actionable feedback.
+ 	Conceptualize and own the data architecture for multiple large-scale projects, while evaluating design and operational cost-benefit tradeoffs within systems.
+ 	Create and contribute to frameworks that improve the efficacy of logging data, while working with data infrastructure to triage issues and resolve.
+ 	Collaborate with engineers, product managers, and data scientists to understand data needs, representing key data insights visually in a meaningful way.
+ 	Define and manage SLA for all data sets in allocated areas of ownership.
+ 	Determine and implement the security model based on privacy requirements, confirm safeguards are followed, address data quality issues, and evolve governance processes within allocated areas of ownership.
+ 	Design, build, and launch collections of sophisticated data models and visualizations that support multiple use cases across different products or domains.
+ 	Solve our most challenging data integration problems, utilizing optimal ETL patterns, frameworks, query techniques, sourcing from structured and unstructured data sources.
+ 	Assist in owning existing processes running in production, optimizing complex code through advanced algorithmic concepts.
+ 	Optimize pipelines, dashboards, frameworks, and systems to facilitate easier development of data artifacts.
+ 	Influence product and cross-functional teams to identify data opportunities to drive impact.
+ 	Mentor team members by giving/receiving actionable feedback.
 Minimum Qualifications
-•	5+ years experience in the data warehouse space.
-•	5+ years experience in custom ETL design, implementation and maintenance.
-•	5+ years experience with object-oriented programming languages.
-•	7+ years experience with schema design and dimensional data modeling.
-•	7+ years experience in writing SQL statements.
-•	Experience analyzing data to identify gaps and inconsistencies.
-•	Experience managing and communicating data warehouse plans to internal clients.
-•	Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.
+ 	5+ years experience in the data warehouse space.
+ 	5+ years experience in custom ETL design, implementation and maintenance.
+ 	5+ years experience with object-oriented programming languages.
+ 	7+ years experience with schema design and dimensional data modeling.
+ 	7+ years experience in writing SQL statements.
+ 	Experience analyzing data to identify gaps and inconsistencies.
+ 	Experience managing and communicating data warehouse plans to internal clients.
+ 	Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.
 Preferred Qualifications
-•	Experience working with either a MapReduce or an MPP system.
-•	Knowledge and practical application of Python.
-•	Experience working autonomously in global teams.
-•	Experience influencing product decisions with data.
+ 	Experience working with either a MapReduce or an MPP system.
+ 	Knowledge and practical application of Python.
+ 	Experience working autonomously in global teams.
+ 	Experience influencing product decisions with data.
 Every month, billions of people leverage Facebook products to connect with friends and loved ones from across the world. On the Data Engineering Team, our mission is to support these products both internally and externally by delivering the best data foundation that drives impact through informed decision making. As a highly collaborative organization, our data engineers work cross-functionally with software engineering, data science, and product management to optimize growth, strategy, and experience for our 3 billion plus users, as well as our internal employee community. In this role, you will see a direct correlation between your work, company growth, and user satisfaction. Beyond this, you will work with some of the brightest minds in the industry, and you'll have a unique opportunity to solve some of the most interesting data challenges around efficiency and integrity, at a scale few companies can match. As a Generalist, you are adaptable and a flexible problem solver with technical expertise, analytics skills, and product sense to successfully pivot/context-switch amongst many projects with a variety of scale and complexity. With your breadth of knowledge, you are often sought after for guidance and mentorship as well. As we continue to expand and create, we have a lot of exciting work ahead of us!
 Data Engineer, Analytics Responsibilities
-•	Conceptualize and own the data architecture for multiple large-scale projects, while evaluating design and operational cost-benefit tradeoffs within systems.
-•	Create and contribute to frameworks that improve the efficacy of logging data, while working with data infrastructure to triage issues and resolve.
-•	Collaborate with engineers, product managers, and data scientists to understand data needs, representing key data insights visually in a meaningful way.
-•	Define and manage SLA for all data sets in allocated areas of ownership.
-•	Determine and implement the security model based on privacy requirements, confirm safeguards are followed, address data quality issues, and evolve governance processes within allocated areas of ownership.
-•	Design, build, and launch collections of sophisticated data models and visualizations that support multiple use cases across different products or domains.
-•	Solve our most challenging data integration problems, utilizing optimal ETL patterns, frameworks, query techniques, sourcing from structured and unstructured data sources.
-•	Assist in owning existing processes running in production, optimizing complex code through advanced algorithmic concepts.
-•	Optimize pipelines, dashboards, frameworks, and systems to facilitate easier development of data artifacts.
-•	Influence product and cross-functional teams to identify data opportunities to drive impact.
-•	Mentor team members by giving/receiving actionable feedback.
+ 	Conceptualize and own the data architecture for multiple large-scale projects, while evaluating design and operational cost-benefit tradeoffs within systems.
+ 	Create and contribute to frameworks that improve the efficacy of logging data, while working with data infrastructure to triage issues and resolve.
+ 	Collaborate with engineers, product managers, and data scientists to understand data needs, representing key data insights visually in a meaningful way.
+ 	Define and manage SLA for all data sets in allocated areas of ownership.
+ 	Determine and implement the security model based on privacy requirements, confirm safeguards are followed, address data quality issues, and evolve governance processes within allocated areas of ownership.
+ 	Design, build, and launch collections of sophisticated data models and visualizations that support multiple use cases across different products or domains.
+ 	Solve our most challenging data integration problems, utilizing optimal ETL patterns, frameworks, query techniques, sourcing from structured and unstructured data sources.
+ 	Assist in owning existing processes running in production, optimizing complex code through advanced algorithmic concepts.
+ 	Optimize pipelines, dashboards, frameworks, and systems to facilitate easier development of data artifacts.
+ 	Influence product and cross-functional teams to identify data opportunities to drive impact.
+ 	Mentor team members by giving/receiving actionable feedback.
 Minimum Qualifications
-•	5+ years experience in the data warehouse space.
-•	5+ years experience in custom ETL design, implementation and maintenance.
-•	5+ years experience with object-oriented programming languages.
-•	7+ years experience with schema design and dimensional data modeling.
-•	7+ years experience in writing SQL statements.
-•	Experience analyzing data to identify gaps and inconsistencies.
-•	Experience managing and communicating data warehouse plans to internal clients.
-•	Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.
+ 	5+ years experience in the data warehouse space.
+ 	5+ years experience in custom ETL design, implementation and maintenance.
+ 	5+ years experience with object-oriented programming languages.
+ 	7+ years experience with schema design and dimensional data modeling.
+ 	7+ years experience in writing SQL statements.
+ 	Experience analyzing data to identify gaps and inconsistencies.
+ 	Experience managing and communicating data warehouse plans to internal clients.
+ 	Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.
 Preferred Qualifications
-•	Experience working with either a MapReduce or an MPP system.
-•	Knowledge and practical application of Python.
-•	Experience working autonomously in global teams.
-•	Experience influencing product decisions with data.
-"
-Hazen Research,Entry Level Data Scientist,"About the Company
-Hazen Research, Inc. is an independent industrial research and development (R&D) company specializing in the mining, chemical, energy, and environmental industries worldwide since 1961. Our 17-building, 11-acre campus in Golden, CO, houses multiple laboratory and pilot plant facilities to support our R&D work across multiple disciplines for across the globe. The facility is operated by a staff of well over 100 engineers, chemists, technicians, and support personnel.
-About the Position
-This is a newly created position for Hazen Research so the role will be developing as time evolves. We like to utilize our employees’ strengths so there will be flexibility and growth with this role which will benefit the Company and the employee. The is an entry level role ideal for someone just completing the required or related post grad degree.
-Essential Duties and Responsibilities
-•	Receives research data generated from are a series of laboratory experiments or from continuous pilot plant operations
-•	Uses this digitally recorded and handwritten data to prepares tables and figures and organizes data and files
-•	The data processor will calculate results and manage data generated from research experiments
-•	The data processor will work with engineers on data presentation and calculations producing clear, detailed, accurate, and informative illustrations
-•	Works on multiple projects at the same time and performs effectively under pressure and tight deadlines and occasionally works extra hours
-•	Other duties and/or tasks as assigned
-Qualifications and Skills
-•	A graduate degree in Mathematics, Science, Engineering or other related field
-•	Understanding of chemistry and knowledge of proper technical English are a plus
-•	High Attention to Detail
-•	Excellent multi-tasking skills
-•	Strong knowledge of Microsoft Office and an expert with Excel
-•	Skilled at Python and LabVIEW is a plus
-•	Proficient with databases such as SQL and Access
-Compensation and Benefits
-•	Starting Annual Salary Range: $65k to $75k
-•	A competitive benefits package that includes medical, dental, vision, life insurance, 401K plan, LTD, LTC, vacation, and sick leave.
-We are an Equal Opportunity Employer. We accept everyone including Minority/ Females/ Disabled/ Veterans/ Sexual Orientation/ Gender Identity/Religion/ National Origin"
-Facebook2,Data Engineer,"{'skills': ['Python', 'SQL', 'Excel'],
- 'values': ['Detail',
-  'Hazen Research',
-  'Excel',
-  'Access Compensation',
-  'Qualifications and Skills A',
-  'English',
-  'Mathematics, Science, Engineering',
-  'Company',
-  'SQL',
-  'CO',
-  'Essential Duties and Responsibilities Receives',
-  'the Company Hazen Research, Inc.',
-  'LTD',
-  'Microsoft Office'],
- 'initiatives': ['Detail',
-  'Hazen Research',
-  'Excel',
-  'Access Compensation',
-  'Qualifications and Skills A',
-  'English',
-  'Mathematics, Science, Engineering',
-  'Company',
-  'SQL',
-  'CO',
-  'Essential Duties and Responsibilities Receives',
-  'the Company Hazen Research, Inc.',
-  'LTD',
-  'Microsoft Office'],
- 'action_verbs': ['like',
-  'start',
-  'file',
-  'create',
-  'complete',
-  'record',
-  'operate',
-  'perform',
-  'house',
-  'receive',
-  'work',
-  'require',
-  'accept',
-  'organize',
-  'benefit',
-  'use',
-  'support',
-  'specialize',
-  'generate',
-  'manage',
-  'utilize',
-  'produce',
-  'assign',
-  'develop',
-  'calculate',
-  'leave',
-  'include']}"
-Hazen Research2,Entry Level Data Scientist,"{'skills': ['Python', 'SQL', 'Excel'],
- 'values': ['Detail',
-  'Hazen Research',
-  'Excel',
-  'Access Compensation',
-  'Qualifications and Skills A',
-  'English',
-  'Mathematics, Science, Engineering',
-  'Company',
-  'SQL',
-  'CO',
-  'Essential Duties and Responsibilities Receives',
-  'the Company Hazen Research, Inc.',
-  'LTD',
-  'Microsoft Office'],
- 'initiatives': ['Detail',
-  'Hazen Research',
-  'Excel',
-  'Access Compensation',
-  'Qualifications and Skills A',
-  'English',
-  'Mathematics, Science, Engineering',
-  'Company',
-  'SQL',
-  'CO',
-  'Essential Duties and Responsibilities Receives',
-  'the Company Hazen Research, Inc.',
-  'LTD',
-  'Microsoft Office'],
- 'action_verbs': ['like',
-  'start',
-  'file',
-  'create',
-  'complete',
-  'record',
-  'operate',
-  'perform',
-  'house',
-  'receive',
-  'work',
-  'require',
-  'accept',
-  'organize',
-  'benefit',
-  'use',
-  'support',
-  'specialize',
-  'generate',
-  'manage',
-  'utilize',
-  'produce',
-  'assign',
-  'develop',
-  'calculate',
-  'leave',
-  'include']}"
+ 	Experience working with either a MapReduce or an MPP system.
+ 	Knowledge and practical application of Python.
+ 	Experience working autonomously in global teams.
+ 	Experience influencing product decisions with data.
+",1

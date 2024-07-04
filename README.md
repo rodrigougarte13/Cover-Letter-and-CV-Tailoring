@@ -8,4 +8,7 @@ Future plans include expanding the application into a web-based platform to impr
 
 To set up the environment, install these libraries using pip:
 ```python
-pip install pandas scikit-learn python-docx open ai
+pip install openai pandas python-docx spacy
+python tailoring.py
+
+
