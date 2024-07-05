@@ -5,6 +5,9 @@ from docx import Document
 import re
 import json
 
+
+
+
 def extract_text(file_path):
     doc = Document(file_path)
     full_text = []
@@ -191,7 +194,7 @@ def tailor():
         company = row['Company']
         position = row['Position']
         job_offer = row['Job Offer']
-        generate_cover_letter = row['Generate Cover Letter']
+        needs_cover_letter = row['Needs Cover Letter']
 
         # CV
         cv_path = 'CV Rodrigo Ugarte.docx'
@@ -201,9 +204,11 @@ def tailor():
         print(f'CV for {company} for {position} done!')
 
         # COVER LETTER
-        if generate_cover_letter:
+        if needs_cover_letter:
             cover_letter = generate_cover_letter(company, position, job_offer)
             doc = Document()
             doc.add_paragraph(cover_letter)
-            doc.save(f'1STEP_Cover_Letter_{company}_{position}.docx')
+            doc.save(f'Cover_Letter_{company}_{position}.docx')
             print(f'Cover Letter for {company} for {position} done!')
+
+tailor()
